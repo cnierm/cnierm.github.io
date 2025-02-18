@@ -1,2 +1,4 @@
 # cnierm.github.io
-My ePortfolio
+My ePortfolio - Very work in progress
+
+https://cnierm.github.io
